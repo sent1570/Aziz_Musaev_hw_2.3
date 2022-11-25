@@ -43,7 +43,7 @@
         android:textColor="@color/black"
         android:layout_marginTop="120dp"
         android:textSize="20dp"
-        android:text="Black"
+        android:text="Blue"
         >
 
     </TextView>
